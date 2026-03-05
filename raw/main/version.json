@@ -1,5 +1,10 @@
 {
-  "mod_version": "1.2",
-  "download_url": "https://raw.githubusercontent.com/SvenDerEchte2/BrickRigsMods/refs/heads/main/Mod.pak",
-  "message": "Neue Fahrzeuge und Features verfügbar!"
+  "mods": [
+    {
+      "name": "ModA",
+      "mod_version": "1.2",
+      "message": "Neue Features für ModA!",
+      "download_url": "https://raw.githubusercontent.com/SvenDerEchte2/BrickRigsMods/main/raw/main/mods/ModA.pak"
+    },
+  ]
 }
