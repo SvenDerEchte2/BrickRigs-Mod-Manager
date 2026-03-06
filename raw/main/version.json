@@ -1,7 +1,7 @@
 {
   "launcher_version": "1.1.0",
-  "launcher_url": "https://raw.githubusercontent.com/SvenDerEchte2/BrickRigsMods/main/Launcher.exe",
-  "updater_url": "https://raw.githubusercontent.com/SvenDerEchte2/BrickRigsMods/main/Updater.exe",
+  "launcher_url": "https://drive.google.com/uc?export=download&id=1btLTKq6vn6s0GKON3VZtWAbMq2gkTUvC",
+  "updater_url": "https://drive.google.com/uc?export=download&id=1-hjMKwFZ7L9TgimvOpLAp2kFNBtd96bD",
   "mods": [
     {
       "name": "ModA",
