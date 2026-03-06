@@ -22,7 +22,7 @@ Entpacke das ZIP in deinem BrickRigs Verzeichnis (dort wo die BrickRigs.exe lieg
 
 Starte BrickRigsModManager.exe.
 
-Beim ersten Start wirst du aufgefordert, den Brick Rigs </ins>Paks-Ordner</ins> auszuwählen.
+Beim ersten Start wirst du aufgefordert, den Brick Rigs **Paks-Ordner** auszuwählen.
 
 Launcher-Update:
 
