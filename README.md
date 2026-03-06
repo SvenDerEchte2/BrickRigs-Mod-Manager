@@ -40,6 +40,7 @@ Antivirus-Programme können den automatischen Update-Prozess blockieren; ggf. Au
 
 © 2026 SvenDerEchte2
 Alle Rechte vorbehalten.
+Dieser Code darf ohne ausdrückliche Erlaubnis nicht kopiert, verändert oder verbreitet werden.
 
 Mods: Die Rechte liegen bei den jeweiligen Autoren.
 
