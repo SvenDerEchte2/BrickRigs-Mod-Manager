@@ -13,11 +13,18 @@ Automatische Updates für Mods
 
 Automatische Launcher-Updates
 
-## Installation:
+## Installation
 
-Copy & Paste diese Commandzeile
+Lade die neueste Version des Mod Managers von GitHub Releases
+herunter.
 
-Launcher-Update:
+Lege das Programm in dein BrickRigs Verzeichnis (dort wo die BrickRigs.exe liegt).
+
+Starte BrickRigsModManager.exe.
+
+Beim ersten Start wirst du aufgefordert, den Brick Rigs **Paks-Ordner** auszuwählen.
+
+Launcher-Update
 
 Bei Verfügbarkeit wirst du durch ein Popup informiert.
 
